@@ -1,4 +1,4 @@
-![Game Developer Roadmap](https://github.com/wjdskagjs1/test/blob/master/Images/Title.png)
+![Game Developer Roadmap](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/Title.png)
 
 > Roadmap to becoming a game developer in 2018, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
 
@@ -11,23 +11,23 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ## 🚀 Introduction
 
-![](https://github.com/wjdskagjs1/test/blob/master/Images/Intro.png)
+![](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/Intro.png)
 
 ## 🎨 Client Roadmap for 2018 (WIP)
 
-![](https://github.com/wjdskagjs1/test/blob/master/Images/ClientProgrammer-2018.png)
+![](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/ClientProgrammer-2018.png)
 
 ## 🎨 Client Roadmap
 
-![](https://github.com/wjdskagjs1/test/blob/master/Images/Client.png)
+![](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/Client.png)
 
 ## 👽 Server Roadmap (Thanks to [Heo Lyn](https://github.com/lynheo))
 
-![](https://github.com/wjdskagjs1/test/blob/master/Images/Server.png)
+![](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/Server.png)
 
 ## 📑 Game Tester (QA) Roadmap
 
-![](https://github.com/wjdskagjs1/test/blob/master/Images/GameTester(QA).png)
+![](https://github.com/4Lunari/2018-game-devloper-roadmap-korean/blob/master/Images/GameTester(QA).png)
 
 ## 🚦 Wrap Up
 
